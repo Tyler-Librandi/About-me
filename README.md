@@ -1,0 +1,6 @@
+- 👋 Hello world, my name is @Tyler-Librandi!
+- 👀 I’m excited to learn new web technologies and expand my portfolio.
+- 🌱 Currently, I'm practicing my HTML, CSS, and JS skills.
+- ✨ Moving forward, I plan on learning how to develop websites using React.
+- 💞️ I’m looking to collaborate with others on projects that aim to explore new ways of thinking and create something unique.
+- 📫 You can reach me through the contact section of my website, hosted at TylerLibrandi.com, or email me directly at TylerLibrandi@gmail.com!
